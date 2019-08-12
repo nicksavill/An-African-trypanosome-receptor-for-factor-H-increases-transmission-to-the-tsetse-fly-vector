@@ -1,0 +1,12 @@
+treatments  0-2
+individuals 0-4
+samples     4000
+thin        500
+population  1
+mcmc        1
+time_start  0
+data_file   Data/data.csv
+expno       2
+pars_file   Results/2.best
+temp_file   Results/ladder
+derived     0
